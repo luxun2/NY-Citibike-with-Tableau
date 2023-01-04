@@ -27,7 +27,6 @@ Some of the results can be viewed below.
 ![This is an image](https://i.imgur.com/6d2C5Co.png)
 ![This is an image](https://i.imgur.com/dZgcRJw.png)
 ![This is an image](https://i.imgur.com/Vq8y5iV.png)
-![This is an image](https://i.imgur.com/ux2ZKZ8.png)
 ![This is an image](https://i.imgur.com/1HGlkB3.png)
 ![This is an image](https://i.imgur.com/MLTpiVU.png)
 
